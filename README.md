@@ -67,9 +67,15 @@ I specialize in **full-stack development** (Flask, MongoDB, MySQL), **RESTful AP
 
 ## 📌 Featured Projects
 
+- 🍽️ **AI-Powered Cafe Restaurant App** - `Java` `XML` `AI Integration`
+- 🏥 **Hospital Management System** - `Flask` `Mongo Atlas` `JavaScript`
+- 🔄 **SkillSwap Hub** - `Flask` `MongoDB` `JavaScript`
+- ✅ **Task Manager App** - `Flask` `MySQL` `JavaScript`
+- 📊 **Sales Dashboard** - `Power BI` `Excel`
 
-> I have several other web projects including Hospital Management system, dashboards, Task Manager , and SkillSwap_Hub etc. They are publish here shortly!
+            And many more...
 
+> 🔗 **All projects available on [my GitHub repositories](https://github.com/RubabFatima232?tab=repositories)**
 <hr>
 
 ## 🎓 Education
