@@ -23,15 +23,6 @@
 
 <hr>
 
-**What I'm working on:**
-- ✅ Publishing all my projects to GitHub
-- ✅ Making regular contributions
-- ✅ Building my portfolio
-
-*Stats will auto-magically appear after 1-2 weeks of activity!*
-
-</details>
-
 <hr>
 
 ## 🚀 About Me
