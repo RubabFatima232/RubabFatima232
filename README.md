@@ -23,45 +23,6 @@
 
 <hr>
 
-## 📊 GitHub Stats
-
-<!-- SIMPLE TEXT-BASED STATS - Always works! -->
-<table align="center">
-  <tr>
-    <td align="center">
-      <h3>📝</h3>
-      <h2>5+</h2>
-      <p>Total Projects</p>
-      <small>Web & Desktop Apps</small>
-    </td>
-    <td align="center">
-      <h3>💻</h3>
-      <h2>3</h2>
-      <p>Public Repositories</p>
-      <small>Growing daily</small>
-    </td>
-    <td align="center">
-      <h3>🚀</h3>
-      <h2>Active</h2>
-      <p>Currently Building</p>
-      <small>SkillSwap Hub</small>
-    </td>
-  </tr>
-</table>
-
-<!-- Simple badges that always work -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Active%20Learner-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/Open%20for-Collaboration-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack-red?style=flat-square" />
-</p>
-
-<details>
-<summary>📈 <b>About GitHub Stats</b> (Click to expand)</summary>
-<br>
-
-> **Note:** Since my GitHub account is new, the automatic stats cards will appear once I have more activity. Check back soon!
-
 **What I'm working on:**
 - ✅ Publishing all my projects to GitHub
 - ✅ Making regular contributions
@@ -97,6 +58,9 @@ I enjoy building practical projects using technologies like **Python** and **Mon
 
 ### Data Analysis & Visualization
 `Data Analysis` `Power BI` `Tableau` `Data-Driven Insights`
+
+### Microsoft Office & Productivity
+`Microsoft Excel` `Microsoft Word` `Microsoft PowerPoint` `Microsoft Outlook`  `Data Entry` 
 
 ### Tools & Platforms
 `Git` `VS Code` `XML`
