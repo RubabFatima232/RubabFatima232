@@ -23,16 +23,23 @@
 
 <hr>
 
-<hr>
 
 ## 🚀 About Me
 
-> I'm a Computer Science student with a passion for full-stack development and data-driven insights.
+> I'm a Computer Science student at **KICSIT** passionate about building intelligent solutions through code and data.
 
-I enjoy building practical projects using technologies like **Python** and **MongoDB**. I am continuously learning and aiming to develop efficient, real-world solutions. My expertise spans across building intelligent applications, managing complex databases, and analyzing data to drive decision-making.
+I specialize in **full-stack development** (Flask, MongoDB, MySQL), **RESTful APIs**, and **data analysis** (Power BI, Tableau, Excel). I combine technical development with strong Microsoft Office skills to create efficient, real-world solutions that make a difference.
 
-| 💡 **Clean Code** | ⚡ **Fast Delivery** | 🔒 **Security First** |
-|:---:|:---:|:---:|
+**What I bring to the table:**
+- 🐍 Full-stack development with Python & Flask
+- 🔌 RESTful API design & integration
+- 📊 Data visualization & business intelligence
+- 📁 Database design & management (SQL/MongoDB)
+- 📈 Advanced Excel & Office automation
+- 🤝 Problem-solving & collaborative mindset
+
+| 💡 **Clean Code** | ⚡ **Fast Delivery** | 🔒 **Security First** | 🔌 **API-Ready** |
+|:---:|:---:|:---:|:---:|
 
 <hr>
 
@@ -73,25 +80,6 @@ I enjoy building practical projects using technologies like **Python** and **Mon
 **Focus Areas:** Full-Stack Development · Database Management · Data Analysis · System Design
 
 Currently working on real-world projects and continuously expanding technical expertise through hands-on development.
-
-<hr>
-
-## 📊 What I'm Currently Building
-
-<table>
-  <tr>
-    <td>🔨 <strong>SkillSwap Hub</strong></td>
-    <td>Flask + MongoDB web app for skill exchange</td>
-  </tr>
-  <tr>
-    <td>📚 <strong>Learning</strong></td>
-    <td>Advanced Data Science & Cloud Computing</td>
-  </tr>
-  <tr>
-    <td>🎯 <strong>Next Goal</strong></td>
-    <td>Deploy projects on GitHub and build portfolio</td>
-  </tr>
-</table>
 
 <hr>
 
